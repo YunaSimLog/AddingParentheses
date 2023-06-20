@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+AddingParentheses/.vs
+AddingParentheses/bin
+AddingParentheses/obj
